@@ -1,0 +1,16 @@
+﻿  Source.cpp
+c:\users\user\documents\github\123\project48\project48\source.cpp(86): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\user\documents\github\123\project48\project48\source.cpp(273): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\user\documents\github\123\project48\project48\source.cpp(360): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\documents\github\123\project48\project48\source.cpp(365): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\documents\github\123\project48\project48\source.cpp(370): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\documents\github\123\project48\project48\source.cpp(375): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\documents\github\123\project48\project48\source.cpp(380): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\documents\github\123\project48\project48\source.cpp(385): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\documents\github\123\project48\project48\source.cpp(390): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\documents\github\123\project48\project48\source.cpp(395): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\documents\github\123\project48\project48\source.cpp(400): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\documents\github\123\project48\project48\source.cpp(405): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\documents\github\123\project48\project48\source.cpp(410): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\documents\github\123\project48\project48\source.cpp(415): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project48.vcxproj -> C:\Users\User\Documents\GitHub\123\Project48\x64\Debug\Project48.exe
